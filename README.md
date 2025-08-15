@@ -1,0 +1,1 @@
+# amai-terms-of-use
