@@ -3,19 +3,19 @@ AMAI TECHNOLOGIES LTD - TERMS OF USE
 
 Last Updated: August 8, 2025
 Effective Date: August 8, 2023
-________________________________________
+ 
 1. ACCEPTANCE OF TERMS
 By accessing or using the Amai mobile application ("App"), websites, or related services ("Services"), you agree to these legally binding Terms of Use ("Terms"). If you are:
 •	A minor (under 18 or age of majority in your jurisdiction), your legal guardian must review and consent to these Terms
 •	Using Services on behalf of an entity, you represent authority to bind that entity
 Prohibition: Discontinue use immediately if you disagree with any provision.
-________________________________________
+ 
 2. SERVICE PROVIDER
 Amai Technologies Ltd ("Amai," "we," "us")
 •	Registered Address: Village Cell A, Ishaka Division, Bushenyi, Uganda
 •	Contact: legal@allamai.org | +256758811061
 •	Governing Jurisdiction: Uganda
-________________________________________
+ 
 3. INTELLECTUAL PROPERTY RIGHTS
 A. Ownership
 All Content (code, graphics, text, audio/video), Marks (trademarks/logos), and underlying technology:
@@ -36,7 +36,7 @@ D. User Contributions
 •	Submissions (feedback/suggestions): You assign all IP rights to Amai
 •	Contributions (public posts): You grant Amai a perpetual, worldwide, royalty-free license to use, modify, and distribute
 •	Warranty: You confirm Contributions are original/non-infringing
-________________________________________
+ 
 4. USER OBLIGATIONS
 A. Representations
 You warrant that:
@@ -53,7 +53,7 @@ You may not:
 •	Disrupt Services' technical infrastructure
 •	Violate third-party rights
 (Full list in Section 10 of original submission)
-________________________________________
+ 
 5. PAYMENTS & SUBSCRIPTIONS
 A. Purchases
 •	Payment Methods: Visa, Mastercard, PayPal
@@ -63,13 +63,13 @@ B. Subscriptions
 •	Free Trial: 30 days for new users; auto-renews unless cancelled
 •	Cancellation: Via account settings; effective at billing cycle end
 •	Price Changes: Notified ≥30 days in advance
-________________________________________
+ 
 6. AI FEATURES
 Generative AI tools (e.g., image bots, translators):
 •	Input/Output Ownership: You retain rights to inputs; outputs licensed for personal use
 •	Prohibited Use: No generation of illegal/deceptive content
 •	Third-Party Providers: Subject to OpenAI/Google Cloud terms
-________________________________________
+ 
 7. DISPUTE RESOLUTION
 A. Informal Negotiation
 Parties must attempt resolution via good-faith negotiation (30 days) before arbitration
@@ -79,7 +79,7 @@ B. Binding Arbitration
 •	No Class Actions: Claims must be brought individually
 C. Exceptions
 Claims involving IP infringement may proceed in Ugandan courts
-________________________________________
+ 
 8. LIABILITY & DISCLAIMERS
 A. Service "AS IS"
 We disclaim warranties to fullest extent permitted by law, including:
@@ -93,14 +93,14 @@ You acknowledge:
 •	Service availability depends on internet/device functionality
 •	Content accuracy not guaranteed
 •	Third-party service risks
-________________________________________
+
 9. TERMINATION
 We may suspend/terminate access for:
 •	Material breach of Terms
 •	Fraudulent/illegal activity
 •	Prolonged inactivity (≥12 months)
 Consequences: Account deactivation and Content deletion
-________________________________________
+ 
 10. UPDATES & GOVERNING LAW
 A. Modifications
 Material changes notified via email/in-App alert 30 days pre-effective date. Continued use = acceptance.
@@ -108,8 +108,8 @@ B. Governing Law
 •	Primary Law: Laws of Uganda
 •	EU Users: Unchanged mandatory consumer protections apply
 •	California Residents: May contact CA DCA per Section 30
-________________________________________
-11. GOOGLE PLAY SPECIFICS
+ 
+ 11. GOOGLE PLAY SPECIFICS
 A. Compliance
 •	Refunds managed per Google Play Billing policies
 •	Subscription terms clearly disclosed at sign-up
@@ -117,13 +117,13 @@ A. Compliance
 B. Age Requirements
 •	Services not directed at children <13
 •	COPPA-compliant safeguards implemented
-________________________________________
+ 
 12. DATA PRACTICES
 Our Privacy Policy (https://app.termly.io/...) governs data processing. Key acknowledgments:
 •	Data may be transferred globally with adequate protections
 •	Third-party services have independent privacy policies
 •	You consent to security monitoring for abuse prevention
-________________________________________
+ 
 CONTACT & NOTICES
 Legal Inquiries: legal@allamai.org
 Address: Amai Technologies Ltd, Village Cell A, Ishaka Division, Bushenyi, Uganda
